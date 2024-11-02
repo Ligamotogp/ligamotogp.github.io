@@ -13,6 +13,9 @@ minima:
     - platform: discord
       user_url: "https://discord.com/invite/JnUwtH95Br"
       title: Discord server
+    - platform: github
+      user_url: "https://github.com/Ligamotogp/ligamotogp.github.io"
+      title: Github repo
 
 header_pages:
   - zasady.md
