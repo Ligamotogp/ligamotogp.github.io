@@ -6,4 +6,4 @@ permalink: /discord
 
 ### Aktualny link do serwera discord:
 
-[https://ligamotogp.pl/discord](https://ligamotogp.pl/discord)
+https://discord.com/invite/JnUwtH95Br
