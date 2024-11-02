@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Mistrzowie wykopowej ligi typerów MotoGP
 ---
-
-## Mistrzowie wykopowej ligi typerów MotoGP
 
 ### 🏆 2024 - ?
 ### 🏆 2023 - [BogdanBonerEgzorcysta](https://wykop.pl/ludzie/BogdanBonerEgzorcysta)

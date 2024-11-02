@@ -1,8 +1,7 @@
 ---
 layout: home
+title: Zasady wykopowej ligi typerów MotoGP
 ---
-
-## Zasady wykopowej ligi typerów MotoGP
 
 1. Typujemy na wykopie pod odpowiednim postem umieszczonym przez konto [MirkoLigaMotoGP](https://wykop.pl/ludzie/MirkoLigaMotoGP)
 2. Można typować **NAJPÓŹNIEJ** do pół godziny przed wyścigiem
@@ -14,11 +13,9 @@ layout: home
 - itd...
 - maksymalnie można zgarnąć **20p** z jednej rundy
 6. Typujemy kolejno miejsca 1-5 i proszę typować tak, aby nie dało się pomylić zawodnika. Najlepiej imię i nazwisko, numer lub ksywka zawodnika, przykład poprawnego typu:
-    ```text
-    1. Pecco
-    2. Brad Binder
-    3. 89
-    4. M. Marquez
-    5. Enea Bastianini
-    ```
+>1. Pecco
+>2. Brad Binder
+>3. 89
+>4. M. Marquez
+>5. Enea Bastianini
 7. Niepoprawny typ = **0 punktów**
