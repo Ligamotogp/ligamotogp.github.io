@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Zasady wykopowej ligi typerów MotoGP
+permalink: /zasady
 ---
 
 1. Typujemy na wykopie pod odpowiednim postem umieszczonym przez konto [MirkoLigaMotoGP](https://wykop.pl/ludzie/MirkoLigaMotoGP)
