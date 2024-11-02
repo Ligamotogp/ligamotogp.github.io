@@ -10,7 +10,10 @@ minima:
   social_links:
     - platform: wykop
       user_url: "https://wykop.pl/ludzie/MirkoLigaMotoGP"
-      title:  Profil MirkoLigaMotoGP na Wykopie
+      title:  MirkoLigaMotoGP na Wykopie
+    - platform: discord
+      user_url: "https://discord.com/invite/JnUwtH95Br"
+      title: Discord server
 
 header_pages:
   - zasady.md
