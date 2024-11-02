@@ -1,0 +1,16 @@
+title: Wykopowa liga typerów
+description: Zasady wykopowej ligi typerów MotoGP
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: jekyll/minima
+
+minima:
+  skin: dark
+  social_links:
+    - platform: wykop
+      user_url: "https://wykop.pl/ludzie/MirkoLigaMotoGP"
+      title:  Profil MirkoLigaMotoGP na Wykopie
+
+header_pages:
+  - zasady.md
