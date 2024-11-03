@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Mistrzowie wykopowej ligi typerów MotoGP
+title: Mirko Liga MotoGP
 ---
 
 ---
-**Czym jest Typerka?**
+**Czym jest Mirko Liga MotoGP?**
 
-*Typerka to zabawa polegająca na typowaniu wyników wyścigów MotoGP przez użytkowników serwisu Wykop.pl. Uczestnicy podają swoje przewidywania w komentarzach pod postami konta MirkoLigaMotoGP, a ich trafienia są później punktowane, tworząc ranking najlepszych „typerów”. Celem jest wspólna zabawa i rywalizacja między fanami wyścigów MotoGP.*
+*Typerka to zabawa polegająca na typowaniu wyników wyścigów MotoGP przez użytkowników serwisu Wykop.pl. Uczestnicy podają swoje przewidywania w komentarzach pod postami konta [MirkoLigaMotoGP](https://wykop.pl/ludzie/MirkoLigaMotoGP), a ich trafienia są później punktowane, tworząc ranking najlepszych „typerów”. Celem jest wspólna zabawa i rywalizacja między fanami wyścigów MotoGP.*
 
 ---
 

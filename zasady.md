@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Zasady wykopowej ligi typerów MotoGP
+title: Zasady ligi
 permalink: /zasady
 ---
 
