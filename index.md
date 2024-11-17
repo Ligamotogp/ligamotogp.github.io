@@ -12,6 +12,6 @@ title: Mirko Liga MotoGP
 
 # Mistrzowie ligi
 
-### 🏆 2024 - ?
+### 🏆 2024 - [b3liaR](https://wykop.pl/ludzie/b3liaR)
 ### 🏆 2023 - [BogdanBonerEgzorcysta](https://wykop.pl/ludzie/BogdanBonerEgzorcysta)
 ### 🏆 2022 - [WerdenOo](https://wykop.pl/ludzie/WerdenOo) 
